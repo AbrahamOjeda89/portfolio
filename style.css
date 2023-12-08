@@ -13,7 +13,7 @@ body{
     height: 100vh;
     background-size: cover;
     box-sizing: border-box;
-    filter: blur(6px);  /* Difuminado */
+    filter: blur(3px);  /* Difuminado */
 }
 
 .bg-text{
@@ -54,5 +54,5 @@ footer{
 }
 
 .home{
-    background-image: url(images/home.jpg);
+    background-image: url(images/home3.jpg);
 }
