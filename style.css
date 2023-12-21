@@ -17,7 +17,8 @@ body{
 }
 
 .bg-text{
-    color: var(--main-color);
+    color: black;
+    background-color: rgba(211, 211, 211, 0.5);
     font-weight: bold;
     border: 3px solid #f1f1f1;
     position: absolute;
@@ -37,13 +38,14 @@ body{
 
 .cb{
     display: flex;
-    align-items: center;
+    align-items: start;
     justify-content: center;
+    text-align: justify;
     flex-direction: column;
 }
 
 .card-text{
-    font-family: 'New Tegomin';
+    color: black;
 }
 
 footer{
@@ -51,6 +53,7 @@ footer{
     padding: 20px 0;
     color: var(--main-color);
     margin-top: 40px;
+    text-align: center;
 }
 
 .home{
