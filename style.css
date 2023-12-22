@@ -59,3 +59,13 @@ footer{
 .home{
     background-image: url(images/home3.jpg);
 }
+
+#foto{
+    max-width: 25%;
+    height: auto;
+    border-radius: 50%;
+}
+
+#resumen img{
+    width: 100%;
+}
