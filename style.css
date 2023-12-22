@@ -69,3 +69,7 @@ footer{
 #resumen img{
     width: 100%;
 }
+
+#cv img{
+    min-width: 48%;
+}
